@@ -1,0 +1,1 @@
+Hi! My name is Yevhen Fishchuk and this is my project where I showcase my skills and analyze Spotify charts from 3 different countries. To get more in-depth insights about this project - you can read code and analysis itself
